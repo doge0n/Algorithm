@@ -13,5 +13,3 @@ for _ in range(T):
 
     sum_list = [int(x) for x in input().split()]
     print(sum(sum_list))
-
-    
